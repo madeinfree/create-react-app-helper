@@ -5,6 +5,12 @@ Quickly generator cli help create-react-app to create anything like redux, react
 ## ScreenShot
 ![](http://i.imgur.com/CGSInSc.gif)
 
+## Installation
+
+```command
+npm install create-react-app-helper --global
+```
+
 ## Now Support
 
 - Redux flow ( use redux todo list example )
