@@ -7,7 +7,7 @@ Quickly generator cli help create-react-app to create anything like redux, react
 
 ## Now Support
 
-- Redux flow
+- Redux flow ( use redux todo list example )
 
 ## Usage
 
